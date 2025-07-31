@@ -33,10 +33,3 @@ SmartBankSystem/
 
 
 
----
-
-## ⚙️ How to Run
-
-1. Open a terminal and go to the project folder:
-   ```bash
-   cd SmartBankSystem
